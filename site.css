@@ -19,5 +19,15 @@
      /* Remove default background image */
      background-image: none;
 }
+#info {
+     padding-top:50px;
+     padding-bottom:50px;
+}
+.nav-pills a {
+     font-family: 'Chewy', cursive;
+}
+.tab-content {
+     padding-top:25px;
+}
 
 
